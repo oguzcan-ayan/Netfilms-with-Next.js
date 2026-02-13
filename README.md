@@ -1,7 +1,7 @@
 
 # Netfilms App
 
-Bu uygulama günümmüzde yer alan film ya da dizi siteleri olan web sitelerinin benzeri bir yapıya sahip olup kullanıcıların istediği film ya da dizileri izlemesini amaçlar.
+Bu uygulama günümüzde yer alan film ya da dizi siteleri olan web sitelerinin benzeri bir yapıya sahip olup kullanıcıların istediği film ya da dizileri izlemesini amaçlar.
 
 This application has a structure similar to today's movie or TV series websites and aims to allow users to watch the movies or TV series they want.
 
